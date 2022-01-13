@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  kashti:
+  - apiVersion: v1
+    appVersion: v0.4.0
+    created: "2022-01-13T10:39:46.9274605-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 4f5ccd7a5758a36f3d7d86206aef553fc4b61a1277908fcd0275f8f0423b0f47
+    name: kashti
+    urls:
+    - kashti-0.7.0.tgz
+    version: 0.7.0
+  sample_chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-13T10:39:46.9280165-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 1014361743dcb57c4084cc1e22f2b3c6ad102d5906c9a30097df0559a62e052c
+    name: sample_chart
+    type: application
+    urls:
+    - sample_chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-13T10:39:46.9163776-06:00"
